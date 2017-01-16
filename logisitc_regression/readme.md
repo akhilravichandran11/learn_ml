@@ -1,3 +1,13 @@
+# Logistic Regression
+
+- Loss Fuctions Used
+  - Hinge Loss
+  - Log Likelikehood Loss
+
+- Momentums Studied
+ - Polyak
+ - Nestrov
+
 Please ensure that exec.sh has executable privileges.
 ▪	chmod +x exec.sh
 exec.sh can be executed with the following options:
