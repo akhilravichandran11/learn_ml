@@ -9,8 +9,8 @@
  - Nestrov
 
 - Requirements
-  - Please ensure that exec.sh has executable privileges.
-    ▪	chmod +x exec.sh
+  - Please ensure that exec.sh has executable privileges
+    - chmod +x exec.sh
     
 - Instructions
   - exec.sh can be executed with the following options:
