@@ -9,7 +9,7 @@
  - Nestrov
 
 - Requirements
-  Please ensure that exec.sh has executable privileges.
+  - Please ensure that exec.sh has executable privileges.
     ▪	chmod +x exec.sh
     
 - Instructions
