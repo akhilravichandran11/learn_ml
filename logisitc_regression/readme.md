@@ -13,11 +13,11 @@
     - chmod +x exec.sh
     
 - Instructions
-  - exec.sh can be executed with the following options:
-     ▪	arg1: Type of loss (log, hinge)
-     ▪	arg2: Type of momentum (polyak, nag or none)
+   - exec.sh can be executed with the following options:
+      - arg1: Type of loss (log, hinge)
+      - arg2: Type of momentum (polyak, nag or none)
   - The below will execute with default parameters– log loss with polyak (classical) momentum
-    ▪	./exec.sh
+      - ./exec.sh
 
   - Below are the various combinations that the code can be executed in:
     ▪	./exec.sh log
